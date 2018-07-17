@@ -1,9 +1,5 @@
 # ~ R script Gene Ontology analyses (Severo et al PNAS 2018 - scRNA-Seq of Anopheles gambiae hemocytes) ~ #
 
-# Author: M.Severo
-
-# Raw reads deposited under the accesion number: "PRJEB23372"; mapped read file available in the repository
-
 #### Load and prepare the data ####
 
 ## to load mapped read counts, prepare the data and subset cells 
