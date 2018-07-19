@@ -1,4 +1,4 @@
-# R script Gene Ontology analyses #
+# R script for Gene Ontology analyses #
 
 This script refers to the work performed by Severo et al, PNAS 2018 on single cell RNA Sequencing of Anopheles gambiae hemocytes. It includes the approach used to obtain the Gene Ontology (GO) analyses available in the above mentioned publication. 
 
